@@ -1,4 +1,4 @@
-# Heyy there
+# Heyy there🙋‍♀️
 # My name is Winifred Debpuur.
 I am a passionate Front End Software Engineer who specializes in building responsive and user-friendly web applications using HTML, CSS, Java,etc
 
@@ -11,7 +11,7 @@ I'm always eager to learn and grow as a developer, and I believe that continuous
 If you're looking for a skilled and dedicated Front End Software Engineer/Developer who can help you build beautiful and functional web applications, look no further!
 I'm excited to work with you and help you achieve your goals.
 
-Cheers to endless growth
+Cheers to endless growth🥂
 
 
 
